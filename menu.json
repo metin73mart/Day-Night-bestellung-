@@ -1,0 +1,970 @@
+{
+  "Pizza": [
+    {
+      "name": "Nr. 01 – Pizza Margherita",
+      "price": 8.5
+    },
+    {
+      "name": "Nr. 02 – Pizza mit Salami",
+      "price": 9.0
+    },
+    {
+      "name": "Nr. 03 – Pizza Prosciutto",
+      "price": 9.0
+    },
+    {
+      "name": "Nr. 04 – Pizza Funghi",
+      "price": 9.0
+    },
+    {
+      "name": "Nr. 05 – Pizza Carciofi",
+      "price": 9.0
+    },
+    {
+      "name": "Nr. 06 – Pizza Tonno",
+      "price": 9.0
+    },
+    {
+      "name": "Nr. 07 – Pizza mit Rinderhackfleisch",
+      "price": 9.5
+    },
+    {
+      "name": "Nr. 08 – Pizza mit Sardellen",
+      "price": 9.5
+    },
+    {
+      "name": "Nr. 09 – Pizza mit Sucuk aus Rindfleisch",
+      "price": 9.5
+    },
+    {
+      "name": "Nr. 10 – Pizza Chicken",
+      "price": 9.5
+    },
+    {
+      "name": "Nr. 11 – Pizza Fantasia",
+      "price": 10.0
+    },
+    {
+      "name": "Nr. 12 – Pizza Gabi",
+      "price": 10.0
+    },
+    {
+      "name": "Nr. 13 – Pizza Roma",
+      "price": 10.0
+    },
+    {
+      "name": "Nr. 14 – Pizza Toarmina",
+      "price": 10.0
+    },
+    {
+      "name": "Nr. 15 – Pizza Hawaii",
+      "price": 10.0
+    },
+    {
+      "name": "Nr. 16 – Pizza Anna Maria",
+      "price": 10.0
+    },
+    {
+      "name": "Nr. 17 – Pizza Mimosa",
+      "price": 10.0
+    },
+    {
+      "name": "Nr. 18 – Pizza Zingara",
+      "price": 10.5
+    },
+    {
+      "name": "Nr. 19 – Pizza Sissi",
+      "price": 10.5
+    },
+    {
+      "name": "Nr. 20 – Pizza Jolly",
+      "price": 10.5
+    },
+    {
+      "name": "Nr. 21 – Pizza Italia",
+      "price": 10.5
+    },
+    {
+      "name": "Nr. 22 – Pizza Venezia",
+      "price": 10.5
+    },
+    {
+      "name": "Nr. 23 – Pizza Hot-Sweet",
+      "price": 10.5
+    },
+    {
+      "name": "Nr. 24 – Pizza Rustica",
+      "price": 10.5
+    },
+    {
+      "name": "Nr. 25 – Pizza Capri",
+      "price": 10.5
+    },
+    {
+      "name": "Nr. 26 – Pizza Bolognese",
+      "price": 10.5
+    },
+    {
+      "name": "Nr. 27 – Pizza Palermo",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 28 – Pizza Frutti di Mare",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 29 – Pizza Romana",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 30 – Pizza Quattro Formaggi",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 31 – Pizza Bella",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 32 – Pizza Santa Lucia",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 33 – Pizza Special",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 34 – Pizza Diavolo",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 35 – Pizza Calabrese",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 36 – Pizza Suprema",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 37 – Pizza Vier Jahreszeiten",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 38 – Pizza Amore",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 39 – Pizza Ulmer Spezial",
+      "price": 12.5
+    },
+    {
+      "name": "Nr. 40 – Pizza Mafiosi",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 41 – Pizza Dolce Vita",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 42 – Pizza Amerikana",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 43 – Pizza Vesuvio",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 44 – Pizza Vegetariana",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 45 – Pizza alla Calabrese",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 46 – Pizza Capricciosa",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 510 – Pizza mit Rindfleisch",
+      "price": 12.0
+    },
+    {
+      "name": "Nr. 511 – Pizza Sweet-Chili",
+      "price": 12.0
+    }
+  ],
+  "Calzone": [
+    {
+      "name": "Nr. 47 – Calzone della Chef",
+      "price": 11.5
+    },
+    {
+      "name": "Nr. 48 – Vegetarische Calzone",
+      "price": 11.5
+    }
+  ],
+  "Pasta": [
+    {
+      "name": "Nr. 50 – Pasta alla Panna",
+      "price": 11
+    },
+    {
+      "name": "Nr. 51 – Pasta Special",
+      "price": 11
+    },
+    {
+      "name": "Nr. 52 – Pasta Carbonara",
+      "price": 11
+    },
+    {
+      "name": "Nr. 53 – Pasta Bolognese",
+      "price": 11
+    },
+    {
+      "name": "Nr. 54 – Pasta Broccoli",
+      "price": 11
+    },
+    {
+      "name": "Nr. 55 – Pasta Napoli",
+      "price": 11
+    },
+    {
+      "name": "Nr. 56 – Pasta Gorgonzola",
+      "price": 11
+    },
+    {
+      "name": "Nr. 57 – Pasta Quattro Formaggi",
+      "price": 12
+    },
+    {
+      "name": "Nr. 58 – Pasta Ulmer",
+      "price": 12
+    },
+    {
+      "name": "Nr. 59 – Pasta Mare",
+      "price": 12
+    },
+    {
+      "name": "Nr. 60 – Pasta al Arrabbiata",
+      "price": 12
+    },
+    {
+      "name": "Nr. 61 – Pasta Chef",
+      "price": 12
+    },
+    {
+      "name": "Nr. 62 – Pasta Aglio e Olio",
+      "price": 12
+    },
+    {
+      "name": "Nr. 64 – Pasta Tonno",
+      "price": 12
+    },
+    {
+      "name": "Nr. 65 – Pasta Montecati",
+      "price": 12
+    },
+    {
+      "name": "Nr. 66 – Pasta Aurora",
+      "price": 12
+    },
+    {
+      "name": "Nr. 67 – Pasta Curry",
+      "price": 12
+    },
+    {
+      "name": "Nr. 68 – Pasta Chicki",
+      "price": 12
+    },
+    {
+      "name": "Nr. 74 – Pasta Spinaci",
+      "price": 12
+    },
+    {
+      "name": "Nr. 75 – Pasta Gamberetti e Spinaci",
+      "price": 14.9
+    },
+    {
+      "name": "Nr. 76 – Pasta Gamberetti",
+      "price": 14.9
+    }
+  ],
+  "Pasta al Forno": [
+    {
+      "name": "Nr. 84 – Pasta al Forno Schwäbisch",
+      "price": 13.0
+    },
+    {
+      "name": "Nr. 85 – Pasta al Forno Ulmer Special",
+      "price": 13.0
+    },
+    {
+      "name": "Nr. 86 – Cannelloni al Forno",
+      "price": 13.0
+    },
+    {
+      "name": "Nr. 87 – Rigatoni al Forno",
+      "price": 13.0
+    },
+    {
+      "name": "Nr. 88 – Tortellini al Forno",
+      "price": 13.0
+    },
+    {
+      "name": "Nr. 89 – Lasagne al Forno",
+      "price": 13.0
+    },
+    {
+      "name": "Nr. 90 – Vegetarische Lasagne",
+      "price": 12.0
+    }
+  ],
+  "Salate": [
+    {
+      "name": "Nr. 100 – Eisbergsalat",
+      "price": 4.5
+    },
+    {
+      "name": "Nr. 101 – Tomatensalat",
+      "price": 6.5
+    },
+    {
+      "name": "Nr. 102 – Gurkensalat",
+      "price": 6.5
+    },
+    {
+      "name": "Nr. 103 – Gemischter Salat",
+      "price": 6.5
+    },
+    {
+      "name": "Nr. 104 – Salat Mista",
+      "price": 6.5
+    },
+    {
+      "name": "Nr. 105 – Tomatensalat mit Mozzarella",
+      "price": 7.5
+    },
+    {
+      "name": "Nr. 106 – Salat Nizza",
+      "price": 9.0
+    },
+    {
+      "name": "Nr. 107 – Thunfischsalat",
+      "price": 9.0
+    },
+    {
+      "name": "Nr. 108 – Bauernsalat",
+      "price": 9.0
+    },
+    {
+      "name": "Nr. 109 – Italienischer Salat",
+      "price": 9.0
+    },
+    {
+      "name": "Nr. 110 – Mexican Salad",
+      "price": 9.0
+    },
+    {
+      "name": "Nr. 111 – Ulm Salat",
+      "price": 9.5
+    },
+    {
+      "name": "Nr. 112 – Chicken Salat",
+      "price": 12.0
+    },
+    {
+      "name": "Nr. 113 – Meeresfrüchte Salat",
+      "price": 12.0
+    }
+  ],
+  "Baguettes": [
+    {
+      "name": "Nr. 216 – Vegetarisches Baguette",
+      "price": 9.0
+    },
+    {
+      "name": "Nr. 217 – Thunfisch Baguette",
+      "price": 9.0
+    },
+    {
+      "name": "Nr. 218 – Baguette mit Salami und frischen Tomaten",
+      "price": 9.0
+    },
+    {
+      "name": "Nr. 219 – Baguette mit Truthahnschinken und frischen Tomaten",
+      "price": 9.0
+    },
+    {
+      "name": "Nr. 220 – American Baguette",
+      "price": 9.0
+    }
+  ],
+  "Käsespätzle": [
+    {
+      "name": "Nr. 69 – Käsespätzle mit Rahmsauce",
+      "price": 11.5
+    },
+    {
+      "name": "Nr. 70 – Käsespätzle mit Zigeunersauce",
+      "price": 11.5
+    },
+    {
+      "name": "Nr. 71 – Käsespätzle mit Jägersauce",
+      "price": 11.5
+    },
+    {
+      "name": "Nr. 72 – Käsespätzle mit Soja-Sauce",
+      "price": 11.5
+    },
+    {
+      "name": "Nr. 73 – Käsespätzle mit Paprika-Sauce",
+      "price": 11.5
+    }
+  ],
+  "American Food – Toasts": [
+    {
+      "name": "Nr. 224 – Hawaii Toast",
+      "price": 6.0
+    },
+    {
+      "name": "Nr. 225 – American Toast",
+      "price": 6.0
+    },
+    {
+      "name": "Nr. 226 – Ulmer Toast",
+      "price": 6.5
+    }
+  ],
+  "Burger & Wraps": [
+    {
+      "name": "Nr. 280 – Chickenburger",
+      "price": 10.9
+    },
+    {
+      "name": "Nr. 281 – Hamburger",
+      "price": 10.9
+    },
+    {
+      "name": "Nr. 282 – Vegetable Burger",
+      "price": 10.9
+    },
+    {
+      "name": "Nr. 283 – Schnitzel-Burger",
+      "price": 11.5
+    },
+    {
+      "name": "Nr. 284 – Cheeseburger",
+      "price": 11.5
+    },
+    {
+      "name": "Nr. 285 – Doppelter Chickenburger",
+      "price": 12.5
+    },
+    {
+      "name": "Nr. 286 – Hamburger mit doppelt Rindfleisch",
+      "price": 12.5
+    },
+    {
+      "name": "Nr. 287 – Wrap",
+      "price": 11.9
+    },
+    {
+      "name": "Nr. 288 – Doppelter Hamburger",
+      "price": 13.0
+    }
+  ],
+  "Aufläufe": [
+    {
+      "name": "Nr. 227 – Mexican-Potato-Auflauf",
+      "price": 12.5
+    },
+    {
+      "name": "Nr. 228 – Vegetarischer Potato-Auflauf",
+      "price": 12.5
+    },
+    {
+      "name": "Nr. 229 – Schinken-Potato-Auflauf",
+      "price": 12.5
+    },
+    {
+      "name": "Nr. 230 – Broccoli-Potato-Auflauf",
+      "price": 12.5
+    },
+    {
+      "name": "Nr. 231 – Spinat-Potato-Auflauf",
+      "price": 12.5
+    },
+    {
+      "name": "Nr. 232 – Spezial Potato-Auflauf",
+      "price": 12.5
+    },
+    {
+      "name": "Nr. 233 – Spezial Tutto-Auflauf",
+      "price": 12.5
+    }
+  ],
+  "Fleischgerichte": [
+    {
+      "name": "Nr. 198 – Rahm Soße Groß",
+      "price": 2.5
+    },
+    {
+      "name": "Nr. 199 – Jäger Soße Groß",
+      "price": 2.5
+    },
+    {
+      "name": "Nr. 200 – Maultaschen geröstet",
+      "price": 11.5
+    },
+    {
+      "name": "Nr. 201 – Maultaschen überbacken",
+      "price": 11.5
+    },
+    {
+      "name": "Nr. 202 – Hähnchenschnitzel (2 Stück)",
+      "price": 11.9
+    },
+    {
+      "name": "Nr. 203 – Putenschnitzel (2 Stück)",
+      "price": 11.9
+    },
+    {
+      "name": "Nr. 204 – Zigeunerschnitzel (2 Stück)",
+      "price": 13.0
+    },
+    {
+      "name": "Nr. 205 – Cordon Bleu",
+      "price": 13.0
+    },
+    {
+      "name": "Nr. 206 – Paniertes Hähnchenschnitzel",
+      "price": 13.0
+    },
+    {
+      "name": "Nr. 206a – Hähnchenschnitzel mit Rahmsauce",
+      "price": 13.0
+    },
+    {
+      "name": "Nr. 206b – Jägerschnitzel",
+      "price": 13.0
+    },
+    {
+      "name": "Nr. 207 – Chicken Wings (10 Stück)",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 208 – Chicken Nuggets (10 Stück)",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 209 – Calamaris",
+      "price": 11.9
+    },
+    {
+      "name": "Nr. 210 – Pommes Frites",
+      "price": 4.0
+    },
+    {
+      "name": "Nr. 210a – Reis",
+      "price": 4.0
+    }
+  ],
+  "Chinesisch – Suppen & Vorspeisen": [
+    {
+      "name": "Nr. 140 – Peking-Suppe",
+      "price": 5.0
+    },
+    {
+      "name": "Nr. 142 – Mini-Frühlingsrollen (10 Stück)",
+      "price": 5.5
+    },
+    {
+      "name": "Nr. 143 – Krabben-Chips",
+      "price": 4.0
+    }
+  ],
+  "Chinesisch – Nudeln & Reis": [
+    {
+      "name": "Nr. 172 – Gebratene Nudeln mit Gemüse",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 173 – Gebratene Nudeln mit Hühnerfleisch und Gemüse",
+      "price": 12.0
+    },
+    {
+      "name": "Nr. 174 – Gebratene Nudeln mit Krabben und Gemüse",
+      "price": 14.0
+    },
+    {
+      "name": "Nr. 188 – Gebratene Nudeln mit Rindfleisch und Gemüse",
+      "price": 14.0
+    },
+    {
+      "name": "Nr. 175 – Gebratener Reis mit Gemüse",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 176 – Gebratener Reis mit Hühnerfleisch und Gemüse",
+      "price": 12.0
+    },
+    {
+      "name": "Nr. 177 – Gebratener Reis mit Krabben und Gemüse",
+      "price": 14.0
+    },
+    {
+      "name": "Nr. 178 – Gebratener Reis mit Rindfleisch und Gemüse",
+      "price": 14.0
+    },
+    {
+      "name": "Nr. 740 – Gebratene Nudeln mit Entenfleisch",
+      "price": 13.5
+    },
+    {
+      "name": "Nr. 750 – Gebratener Reis mit Entenfleisch",
+      "price": 13.5
+    },
+    {
+      "name": "Nr. 179 – Gebratene Nudeln mit Hummerkrabben und Curry",
+      "price": 15.0
+    },
+    {
+      "name": "Nr. 180 – Gebratener Reis mit Hummerkrabben und Curry",
+      "price": 15.0
+    },
+    {
+      "name": "Nr. 181 – Gebratene Nudeln mit Rindfleisch, Hühnerfleisch und Shrimps",
+      "price": 15.0
+    },
+    {
+      "name": "Nr. 182 – Gebratener Reis mit Rindfleisch, Hühnerfleisch und Shrimps",
+      "price": 15.0
+    }
+  ],
+  "Chinesisch – Fleisch": [
+    {
+      "name": "Nr. 162 – Putenfleisch in Süß-Saurer Soße",
+      "price": 13.5
+    },
+    {
+      "name": "Nr. 163 – Putenfleisch Hong Kong Art",
+      "price": 13.5
+    },
+    {
+      "name": "Nr. 164 – Putenfleisch Chop-Suey",
+      "price": 13.5
+    },
+    {
+      "name": "Nr. 165 – Rinderfilet Chop-Suey",
+      "price": 14.0
+    },
+    {
+      "name": "Nr. 166 – Rinderfilet mit Bambus",
+      "price": 14.0
+    },
+    {
+      "name": "Nr. 167 – Rindfleisch mit Rot-Curry, Gemüse und Kokosmilch",
+      "price": 14.0
+    },
+    {
+      "name": "Nr. 168 – Drachenkralle",
+      "price": 14.0
+    },
+    {
+      "name": "Nr. 169 – Rinderfilet mit Zwiebeln und Zitronengras",
+      "price": 14.0
+    },
+    {
+      "name": "Nr. 170 – Die drei Schönheiten",
+      "price": 14.0
+    },
+    {
+      "name": "Nr. 171 – Weißer Jade",
+      "price": 14.0
+    },
+    {
+      "name": "Nr. 710 – Kokos Huhn",
+      "price": 14.0
+    },
+    {
+      "name": "Nr. 711 – Curry Huhn",
+      "price": 14.0
+    },
+    {
+      "name": "Nr. 712 – Gebratener Tofu mit Gemüse und Hoisin-Sauce",
+      "price": 13.5
+    }
+  ],
+  "Chinesisch – Geflügel": [
+    {
+      "name": "Nr. 149 – Hühnchen Hongkong-Art",
+      "price": 13.0
+    },
+    {
+      "name": "Nr. 150 – Hühnchen Chop-Suey",
+      "price": 13.0
+    },
+    {
+      "name": "Nr. 151 – Hühnerbrustfilet Gumbao-Art",
+      "price": 13.0
+    },
+    {
+      "name": "Nr. 152 – Knuspriges Hühnchen süß-sauer",
+      "price": 13.0
+    },
+    {
+      "name": "Nr. 520 – Paniertes Hühnchen mit Gemüse, Ananas und Currysoße",
+      "price": 13.0
+    },
+    {
+      "name": "Nr. 153 – Mongolei-Hühnerbrust",
+      "price": 13.0
+    },
+    {
+      "name": "Nr. 154 – Hühnerbrustfilet Thai",
+      "price": 13.0
+    }
+  ],
+  "Chinesisch – Ente": [
+    {
+      "name": "Nr. 155 – Hong Kong-Ente",
+      "price": 14.9
+    },
+    {
+      "name": "Nr. 156 – Ente Chop-Suey",
+      "price": 14.9
+    },
+    {
+      "name": "Nr. 157 – Ente Thai-Art",
+      "price": 14.9
+    },
+    {
+      "name": "Nr. 158 – Ente Szechuan-Art",
+      "price": 14.9
+    },
+    {
+      "name": "Nr. 159 – Liebesfrüchte der gelben Phönix",
+      "price": 14.9
+    },
+    {
+      "name": "Nr. 160 – Ente süß-sauer mit Ananas",
+      "price": 14.9
+    },
+    {
+      "name": "Nr. 161 – Babu-Ente / Acht Kostbarkeiten",
+      "price": 15.5
+    }
+  ],
+  "Chinesisch – Meeresfrüchte": [
+    {
+      "name": "Nr. 144 – Gebratener Tintenfisch mit Knoblauch und Gemüse",
+      "price": 13.5
+    },
+    {
+      "name": "Nr. 145 – Gebratener Tintenfisch mit Gemüse und chinesischen Gewürzbohnen",
+      "price": 13.5
+    },
+    {
+      "name": "Nr. 146 – Glücksfaden",
+      "price": 13.5
+    },
+    {
+      "name": "Nr. 147 – Die Jademünzen",
+      "price": 13.5
+    },
+    {
+      "name": "Nr. 148 – Südsee-Perlen",
+      "price": 13.5
+    }
+  ],
+  "Chinesisch – Desserts": [
+    {
+      "name": "Nr. 183 – Gebackene Ananas",
+      "price": 5.0
+    },
+    {
+      "name": "Nr. 184 – Gebackene Banane",
+      "price": 5.0
+    }
+  ],
+  "Indisch – Vorspeisen": [
+    {
+      "name": "Nr. 115 – Chicken Pakora",
+      "price": 8.5
+    },
+    {
+      "name": "Nr. 116 – Pakora",
+      "price": 8.5
+    },
+    {
+      "name": "Nr. 117 – Papadum (3 Stück)",
+      "price": 5.0
+    },
+    {
+      "name": "Nr. 118 – Sabji Samosa",
+      "price": 8.5
+    },
+    {
+      "name": "Nr. 119 – Chapati",
+      "price": 1.5
+    }
+  ],
+  "Indisch – Hähnchen": [
+    {
+      "name": "Nr. 121 – Butter Chicken",
+      "price": 13.5
+    },
+    {
+      "name": "Nr. 125 – Murgh-Kari",
+      "price": 12.5
+    },
+    {
+      "name": "Nr. 126 – Murg Biryani",
+      "price": 12.5
+    },
+    {
+      "name": "Nr. 127 – Murgh-Sagwala",
+      "price": 12.5
+    },
+    {
+      "name": "Nr. 128 – Murgh Simla Curry",
+      "price": 12.5
+    },
+    {
+      "name": "Nr. 134 – Murgh-Madras",
+      "price": 12.5
+    },
+    {
+      "name": "Nr. 138 – Chicken Korma",
+      "price": 12.5
+    },
+    {
+      "name": "Nr. 138a – Chicken Chili Masala",
+      "price": 13.5
+    },
+    {
+      "name": "Nr. 138b – Chicken Tikka Masala",
+      "price": 13.5
+    },
+    {
+      "name": "Nr. 138c – Chicken Vindaloo",
+      "price": 12.5
+    }
+  ],
+  "Indisch – Lamm": [
+    {
+      "name": "Nr. 129 – Lamm Curry",
+      "price": 13.5
+    },
+    {
+      "name": "Nr. 130 – Lamm Palak",
+      "price": 13.5
+    },
+    {
+      "name": "Nr. 135 – Lamm Simla Curry",
+      "price": 13.5
+    },
+    {
+      "name": "Nr. 136 – Lamm Vindaloo",
+      "price": 13.5
+    },
+    {
+      "name": "Nr. 137 – Lamm Korma",
+      "price": 13.5
+    },
+    {
+      "name": "Nr. 139 – Lamm Biryani",
+      "price": 13.5
+    }
+  ],
+  "Indisch – Vegetarisch": [
+    {
+      "name": "Nr. 120 – Spinat Panir",
+      "price": 11.5
+    },
+    {
+      "name": "Nr. 122 – Sabji Bhaji",
+      "price": 11.5
+    },
+    {
+      "name": "Nr. 123 – Bharta",
+      "price": 11.5
+    },
+    {
+      "name": "Nr. 124 – Vegetable Biryani",
+      "price": 11.5
+    },
+    {
+      "name": "Nr. 131 – Alu Mattar",
+      "price": 11.5
+    },
+    {
+      "name": "Nr. 132 – Alu Palak",
+      "price": 11.5
+    },
+    {
+      "name": "Nr. 133 – Channa Masala",
+      "price": 11.5
+    },
+    {
+      "name": "Nr. 133a – Karahi",
+      "price": 12.5
+    }
+  ],
+  "Fastfood": [
+    {
+      "name": "Nr. 190 – Wilde Kartoffeln",
+      "price": 6.0
+    },
+    {
+      "name": "Nr. 191 – Mozzarella Sticks",
+      "price": 11.0
+    },
+    {
+      "name": "Nr. 192 – Chili Cheese Nuggets",
+      "price": 12.0
+    }
+  ],
+  "Kindergerichte": [
+    {
+      "name": "Nr. 91 – Pizza mit einer Zutat nach Wahl",
+      "price": 5.2
+    },
+    {
+      "name": "Nr. 92 – Spaghetti mit einer Sauce nach Wahl",
+      "price": 5.2
+    }
+  ],
+  "Desserts": [
+    {
+      "name": "Nr. 235 – Tiramisu",
+      "price": 5.5
+    },
+    {
+      "name": "Nr. 236 – Ganz Orangen Eis",
+      "price": 5.5
+    },
+    {
+      "name": "Nr. 238 – Halbe Kokosnuss gefüllt mit Kokos-Eis",
+      "price": 6.5
+    },
+    {
+      "name": "Nr. 240 – Spaghetti-Eis-Creme-Törtchen",
+      "price": 4.0
+    }
+  ],
+  "Getränke": [
+    {
+      "name": "Nr. 242 – Mineralwasser 1,0 l",
+      "price": 2.65
+    },
+    {
+      "name": "Nr. 243 – Coca-Cola 1,0 l",
+      "price": 3.65
+    },
+    {
+      "name": "Nr. 243g – Coca-Cola Zero 1,0 l",
+      "price": 3.65
+    }
+  ]
+}
